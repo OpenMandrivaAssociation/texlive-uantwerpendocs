@@ -1,6 +1,6 @@
 Name:		texlive-uantwerpendocs
 Version:	64165
-Release:	1
+Release:	2
 Summary:	Course texts, master theses, and exams in University of Antwerp style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uantwerpendocs
