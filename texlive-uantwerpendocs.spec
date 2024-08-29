@@ -1,5 +1,5 @@
 Name:		texlive-uantwerpendocs
-Version:	66819
+Version:	72118
 Release:	1
 Summary:	Course texts, master theses, and exams in University of Antwerp style
 Group:		Publishing
