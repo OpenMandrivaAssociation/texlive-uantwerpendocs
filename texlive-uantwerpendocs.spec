@@ -3,7 +3,7 @@ Version:	72118
 Release:	1
 Summary:	Course texts, master theses, and exams in University of Antwerp style
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uantwerpendocs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uantwerpendocs
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uantwerpendocs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uantwerpendocs.doc.r%{version}.tar.xz
